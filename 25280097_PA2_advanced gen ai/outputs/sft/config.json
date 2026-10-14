@@ -1,0 +1,23 @@
+{
+  "model": "Qwen/Qwen2.5-0.5B",
+  "train_examples": 30000,
+  "validation_examples": 1000,
+  "batch_size": 2,
+  "gradient_accumulation": 16,
+  "effective_batch_size": 32,
+  "epochs": 1,
+  "optimizer": "AdamW",
+  "learning_rate": 2e-05,
+  "weight_decay": 0.1,
+  "scheduler": "cosine",
+  "warmup_steps": 29,
+  "gradient_clip": 1.0,
+  "max_length": 512,
+  "seed": 42,
+  "weight_dtype": "float32",
+  "autocast_dtype": "float16",
+  "gradient_checkpointing": true,
+  "loss_reduction": "Token mean across each accumulation group",
+  "checkpoint_selection": "Lowest validation token-mean loss",
+  "prompt_template": "### Instruction:\n{instruction}\n\n### Response:\n"
+}

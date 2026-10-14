@@ -1,0 +1,278 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 103
+  },
+  {
+    "path": "README.md",
+    "bytes": 8312
+  },
+  {
+    "path": "VALIDATION.md",
+    "bytes": 1908
+  },
+  {
+    "path": "alignment_core.py",
+    "bytes": 5227
+  },
+  {
+    "path": "eval_sets/alpaca_eval_300_seed42.json",
+    "bytes": 60650
+  },
+  {
+    "path": "eval_sets/hh_rlhf_eval_300_seed42.json",
+    "bytes": 94973
+  },
+  {
+    "path": "generate_eval_outputs.py",
+    "bytes": 4415
+  },
+  {
+    "path": "generate_persona_heldout.py",
+    "bytes": 3276
+  },
+  {
+    "path": "judge_results/evaluation_summary.csv",
+    "bytes": 397
+  },
+  {
+    "path": "judge_results/evaluation_summary.json",
+    "bytes": 995
+  },
+  {
+    "path": "judge_results/hh_attempt_errors.jsonl",
+    "bytes": 1359
+  },
+  {
+    "path": "judge_results/hh_failures.jsonl",
+    "bytes": 124
+  },
+  {
+    "path": "judge_results/hh_judgments.jsonl",
+    "bytes": 122523
+  },
+  {
+    "path": "judge_results/hh_raw_replies.jsonl",
+    "bytes": 109059
+  },
+  {
+    "path": "judge_results/hh_scored.jsonl",
+    "bytes": 168927
+  },
+  {
+    "path": "judge_results/hh_unresolved.json",
+    "bytes": 2
+  },
+  {
+    "path": "judge_results/judge_config.json",
+    "bytes": 1659
+  },
+  {
+    "path": "judge_results/persona_judgments.jsonl",
+    "bytes": 9166
+  },
+  {
+    "path": "judge_results/persona_raw_replies.jsonl",
+    "bytes": 7287
+  },
+  {
+    "path": "judge_results/persona_scored.jsonl",
+    "bytes": 13056
+  },
+  {
+    "path": "judge_results/persona_unresolved.json",
+    "bytes": 2
+  },
+  {
+    "path": "judge_results/ultrafeedback_attempt_errors.jsonl",
+    "bytes": 2987
+  },
+  {
+    "path": "judge_results/ultrafeedback_failures.jsonl",
+    "bytes": 358
+  },
+  {
+    "path": "judge_results/ultrafeedback_judgments.jsonl",
+    "bytes": 141213
+  },
+  {
+    "path": "judge_results/ultrafeedback_raw_replies.jsonl",
+    "bytes": 140844
+  },
+  {
+    "path": "judge_results/ultrafeedback_scored.jsonl",
+    "bytes": 190646
+  },
+  {
+    "path": "judge_results/ultrafeedback_unresolved.json",
+    "bytes": 2
+  },
+  {
+    "path": "notebooks/25280097-advanced-genai-pa2-training.ipynb",
+    "bytes": 1497862
+  },
+  {
+    "path": "notebooks/25280097-pa2-evaluation.ipynb",
+    "bytes": 451029
+  },
+  {
+    "path": "outputs/dpo_hh/config.json",
+    "bytes": 768
+  },
+  {
+    "path": "outputs/dpo_hh/metrics.jsonl",
+    "bytes": 80604
+  },
+  {
+    "path": "outputs/dpo_hh/summary.json",
+    "bytes": 252
+  },
+  {
+    "path": "outputs/dpo_ultrafeedback/config.json",
+    "bytes": 727
+  },
+  {
+    "path": "outputs/dpo_ultrafeedback/metrics.jsonl",
+    "bytes": 62092
+  },
+  {
+    "path": "outputs/dpo_ultrafeedback/summary.json",
+    "bytes": 248
+  },
+  {
+    "path": "outputs/eval/dpo_hh_300_seed42.json",
+    "bytes": 320732
+  },
+  {
+    "path": "outputs/eval/dpo_ultrafeedback_alpaca_300_seed42.json",
+    "bytes": 275298
+  },
+  {
+    "path": "outputs/eval/hh_dpo_sanity.json",
+    "bytes": 1985
+  },
+  {
+    "path": "outputs/eval/pairwise/hh_mapping.jsonl",
+    "bytes": 70200
+  },
+  {
+    "path": "outputs/eval/pairwise/hh_pairs.jsonl",
+    "bytes": 542440
+  },
+  {
+    "path": "outputs/eval/pairwise/persona_mapping.jsonl",
+    "bytes": 5754
+  },
+  {
+    "path": "outputs/eval/pairwise/persona_pairs.jsonl",
+    "bytes": 26545
+  },
+  {
+    "path": "outputs/eval/pairwise/ultrafeedback_mapping.jsonl",
+    "bytes": 76457
+  },
+  {
+    "path": "outputs/eval/pairwise/ultrafeedback_pairs.jsonl",
+    "bytes": 500459
+  },
+  {
+    "path": "outputs/eval/sft_alpaca_300_seed42.json",
+    "bytes": 291811
+  },
+  {
+    "path": "outputs/eval/sft_hh_300_seed42.json",
+    "bytes": 346715
+  },
+  {
+    "path": "outputs/eval/sft_sanity_generations.json",
+    "bytes": 3250
+  },
+  {
+    "path": "outputs/eval/ultrafeedback_dpo_sanity.json",
+    "bytes": 3577
+  },
+  {
+    "path": "outputs/persona_lora/config.json",
+    "bytes": 6263
+  },
+  {
+    "path": "outputs/persona_lora/metrics.jsonl",
+    "bytes": 8908
+  },
+  {
+    "path": "outputs/persona_lora/summary.json",
+    "bytes": 1007
+  },
+  {
+    "path": "outputs/persona_lora/trainer_state.json",
+    "bytes": 11603
+  },
+  {
+    "path": "outputs/plots/hh_dpo_training.pdf",
+    "bytes": 25826
+  },
+  {
+    "path": "outputs/plots/hh_dpo_training.png",
+    "bytes": 164488
+  },
+  {
+    "path": "outputs/plots/pairwise_outcomes.png",
+    "bytes": 62324
+  },
+  {
+    "path": "outputs/plots/sft_training.pdf",
+    "bytes": 32439
+  },
+  {
+    "path": "outputs/plots/sft_training.png",
+    "bytes": 187503
+  },
+  {
+    "path": "outputs/plots/ultrafeedback_dpo_training.pdf",
+    "bytes": 25646
+  },
+  {
+    "path": "outputs/plots/ultrafeedback_dpo_training.png",
+    "bytes": 175065
+  },
+  {
+    "path": "outputs/sft/config.json",
+    "bytes": 663
+  },
+  {
+    "path": "outputs/sft/metrics.jsonl",
+    "bytes": 199288
+  },
+  {
+    "path": "outputs/sft/summary.json",
+    "bytes": 173
+  },
+  {
+    "path": "report/25280097_PA2_Report.pdf",
+    "bytes": 738327
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 317
+  },
+  {
+    "path": "submission_adapter.py",
+    "bytes": 1457
+  },
+  {
+    "path": "tests/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "tests/test_public_adapter_smoke.py",
+    "bytes": 5098
+  },
+  {
+    "path": "tests/toy_lm.py",
+    "bytes": 2751
+  },
+  {
+    "path": "train_persona_lora.py",
+    "bytes": 4177
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "best_checkpoint": "/kaggle/working/small-model-alignment-starter/outputs/persona_lora/checkpoints/checkpoint-25",
+  "best_validation_reward_accuracy": 1.0,
+  "selected_adapter_validation": {
+    "eval_loss": 0.5956884622573853,
+    "eval_runtime": 1.9849,
+    "eval_samples_per_second": 11.084,
+    "eval_steps_per_second": 5.542,
+    "eval_rewards/chosen": 0.19797445833683014,
+    "eval_rewards/rejected": -0.00835928600281477,
+    "eval_rewards/accuracies": 1.0,
+    "eval_rewards/margins": 0.20633374154567719,
+    "eval_logps/chosen": -172.50035095214844,
+    "eval_logps/rejected": -126.14067077636719,
+    "eval_logits/chosen": 0.5128738880157471,
+    "eval_logits/rejected": 0.024050025269389153,
+    "epoch": 3.0
+  },
+  "training_metrics": {
+    "train_runtime": 150.8705,
+    "train_samples_per_second": 3.937,
+    "train_steps_per_second": 0.497,
+    "total_flos": 0.0,
+    "train_loss": 0.53207394917806,
+    "epoch": 3.0
+  },
+  "optimizer_steps": 75,
+  "total_minutes": 2.561608293516656
+}

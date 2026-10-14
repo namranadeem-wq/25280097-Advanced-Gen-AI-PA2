@@ -1,0 +1,9 @@
+{"pair_ids": ["hh-42-0015", "hh-42-0016", "hh-42-0017", "hh-42-0018", "hh-42-0019"], "attempt": 1, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["hh-42-0020", "hh-42-0021", "hh-42-0022", "hh-42-0023", "hh-42-0024"], "attempt": 1, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["hh-42-0085", "hh-42-0086", "hh-42-0087", "hh-42-0088", "hh-42-0089"], "attempt": 1, "error": "Expecting ',' delimiter: line 1 column 818 (char 817)"}
+{"pair_ids": ["hh-42-0130", "hh-42-0131", "hh-42-0132", "hh-42-0133", "hh-42-0134"], "attempt": 1, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["hh-42-0130", "hh-42-0131", "hh-42-0132", "hh-42-0133", "hh-42-0134"], "attempt": 2, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["hh-42-0130", "hh-42-0131", "hh-42-0132", "hh-42-0133", "hh-42-0134"], "attempt": 3, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["hh-42-0195", "hh-42-0196", "hh-42-0197", "hh-42-0198", "hh-42-0199"], "attempt": 1, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["hh-42-0195", "hh-42-0196", "hh-42-0197", "hh-42-0198", "hh-42-0199"], "attempt": 2, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["hh-42-0245", "hh-42-0246", "hh-42-0247", "hh-42-0248", "hh-42-0249"], "attempt": 1, "error": "Expecting ',' delimiter: line 1 column 608 (char 607)"}

@@ -1,0 +1,10 @@
+{
+  "best_reward_accuracy": 0.581,
+  "final_metrics": {
+    "validation_loss": 0.7171939003579318,
+    "reward_accuracy": 0.563,
+    "reward_margin": 0.2104429132360965
+  },
+  "successful_optimizer_updates": 466,
+  "total_minutes": 252.08246907873334
+}

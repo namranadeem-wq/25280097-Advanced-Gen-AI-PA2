@@ -1,0 +1,23 @@
+{
+  "track": "ultrafeedback",
+  "initial_policy": "/kaggle/working/small-model-alignment-starter/outputs/sft/best",
+  "reference_checkpoint": "/kaggle/working/small-model-alignment-starter/outputs/sft/best",
+  "train_pairs": 15000,
+  "validation_pairs": 1000,
+  "epochs": 1,
+  "batch_size": 1,
+  "gradient_accumulation": 32,
+  "learning_rate": 1e-06,
+  "optimizer": "AdamW",
+  "weight_decay": 0.0,
+  "scheduler": "none",
+  "beta": 0.1,
+  "gradient_clip": 1.0,
+  "max_length": 512,
+  "seed": 42,
+  "policy_precision": "FP32 weights with FP16 autocast",
+  "reference_precision": "FP16",
+  "dropout": "disabled",
+  "data_order": "Fixed torch.randperm with seed 42",
+  "checkpoint_selection": "Highest validation reward accuracy"
+}

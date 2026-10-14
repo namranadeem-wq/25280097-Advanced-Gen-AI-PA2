@@ -1,0 +1,17 @@
+transformers==4.57.6
+datasets>=2.18,<5
+trl==0.24.0
+peft==0.18.0
+accelerate>=1.4,<2
+huggingface_hub==0.36.2
+tqdm
+numpy
+pandas
+matplotlib
+pyyaml
+sentencepiece
+safetensors
+pytest
+
+# Keep Kaggle GPU PyTorch: recorded training used torch 2.11.0+cu128.
+# Judge notebook uses the preinstalled kaggle_benchmarks environment.

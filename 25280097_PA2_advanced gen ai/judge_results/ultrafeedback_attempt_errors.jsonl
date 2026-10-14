@@ -1,0 +1,15 @@
+{"pair_ids": ["ultrafeedback-42-0020", "ultrafeedback-42-0021", "ultrafeedback-42-0022", "ultrafeedback-42-0023", "ultrafeedback-42-0024"], "attempt": 1, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["ultrafeedback-42-0030", "ultrafeedback-42-0031", "ultrafeedback-42-0032", "ultrafeedback-42-0033", "ultrafeedback-42-0034"], "attempt": 1, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["ultrafeedback-42-0030", "ultrafeedback-42-0031", "ultrafeedback-42-0032", "ultrafeedback-42-0033", "ultrafeedback-42-0034"], "attempt": 2, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["ultrafeedback-42-0065", "ultrafeedback-42-0066", "ultrafeedback-42-0067", "ultrafeedback-42-0068", "ultrafeedback-42-0069"], "attempt": 1, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["ultrafeedback-42-0080", "ultrafeedback-42-0081", "ultrafeedback-42-0082", "ultrafeedback-42-0083", "ultrafeedback-42-0084"], "attempt": 1, "error": "Expecting ',' delimiter: line 1 column 1084 (char 1083)"}
+{"pair_ids": ["ultrafeedback-42-0080", "ultrafeedback-42-0081", "ultrafeedback-42-0082", "ultrafeedback-42-0083", "ultrafeedback-42-0084"], "attempt": 2, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["ultrafeedback-42-0080", "ultrafeedback-42-0081", "ultrafeedback-42-0082", "ultrafeedback-42-0083", "ultrafeedback-42-0084"], "attempt": 3, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["ultrafeedback-42-0130", "ultrafeedback-42-0131", "ultrafeedback-42-0132", "ultrafeedback-42-0133", "ultrafeedback-42-0134"], "attempt": 1, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["ultrafeedback-42-0215", "ultrafeedback-42-0216", "ultrafeedback-42-0217", "ultrafeedback-42-0218", "ultrafeedback-42-0219"], "attempt": 1, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["ultrafeedback-42-0235", "ultrafeedback-42-0236", "ultrafeedback-42-0237", "ultrafeedback-42-0238", "ultrafeedback-42-0239"], "attempt": 1, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["ultrafeedback-42-0235", "ultrafeedback-42-0236", "ultrafeedback-42-0237", "ultrafeedback-42-0238", "ultrafeedback-42-0239"], "attempt": 2, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["ultrafeedback-42-0235", "ultrafeedback-42-0236", "ultrafeedback-42-0237", "ultrafeedback-42-0238", "ultrafeedback-42-0239"], "attempt": 3, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["ultrafeedback-42-0250", "ultrafeedback-42-0251", "ultrafeedback-42-0252", "ultrafeedback-42-0253", "ultrafeedback-42-0254"], "attempt": 1, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["ultrafeedback-42-0280", "ultrafeedback-42-0281", "ultrafeedback-42-0282", "ultrafeedback-42-0283", "ultrafeedback-42-0284"], "attempt": 1, "error": "Batch did not save valid judgments."}
+{"pair_ids": ["ultrafeedback-42-0084"], "attempt": 1, "phase": "missing_pair_retry", "error": "Expecting value: line 1 column 1 (char 0)"}

@@ -1,0 +1,44 @@
+[
+  {
+    "track": "ultrafeedback",
+    "pairs": 300,
+    "wins": 103,
+    "losses": 138,
+    "ties": 59,
+    "unknown": 0,
+    "unresolved": 0,
+    "win_rate_excluding_ties": 0.42738589211618255,
+    "win_rate_ties_half_credit": 0.44166666666666665,
+    "unknown_rate": 0.0,
+    "failure_rate": 0.0,
+    "judge_model": "google/gemini-3.6-flash"
+  },
+  {
+    "track": "hh",
+    "pairs": 300,
+    "wins": 95,
+    "losses": 102,
+    "ties": 103,
+    "unknown": 0,
+    "unresolved": 0,
+    "win_rate_excluding_ties": 0.48223350253807107,
+    "win_rate_ties_half_credit": 0.48833333333333334,
+    "unknown_rate": 0.0,
+    "failure_rate": 0.0,
+    "judge_model": "google/gemini-3.6-flash"
+  },
+  {
+    "track": "persona",
+    "pairs": 22,
+    "wins": 3,
+    "losses": 3,
+    "ties": 16,
+    "unknown": 0,
+    "unresolved": 0,
+    "win_rate_excluding_ties": 0.5,
+    "win_rate_ties_half_credit": 0.5,
+    "unknown_rate": 0.0,
+    "failure_rate": 0.0,
+    "judge_model": "google/gemini-3.6-flash"
+  }
+]

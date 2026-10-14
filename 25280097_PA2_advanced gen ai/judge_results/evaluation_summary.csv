@@ -1,0 +1,4 @@
+track,pairs,wins,losses,ties,unknown,unresolved,win_rate_excluding_ties,win_rate_ties_half_credit,unknown_rate,failure_rate,judge_model
+ultrafeedback,300,103,138,59,0,0,0.42738589211618255,0.44166666666666665,0.0,0.0,google/gemini-3.6-flash
+hh,300,95,102,103,0,0,0.48223350253807107,0.48833333333333334,0.0,0.0,google/gemini-3.6-flash
+persona,22,3,3,16,0,0,0.5,0.5,0.0,0.0,google/gemini-3.6-flash
